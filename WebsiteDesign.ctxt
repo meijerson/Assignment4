@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=WebsiteDesign()
+comment1.params=
+comment1.target=void\ getCustomers()
+comment2.params=customer\ customWebsite
+comment2.target=WebsiteDesign(Customer,\ DesignAndFeatures)
+comment3.params=customer\ customWebsite
+comment3.target=void\ addCustomer(Customer,\ DesignAndFeatures)
+comment4.params=customer\ customWebsite
+comment4.target=void\ displayFinalPrice(Customer,\ DesignAndFeatures)
+numComments=5
